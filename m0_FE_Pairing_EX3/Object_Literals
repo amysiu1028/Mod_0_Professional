@@ -1,0 +1,14 @@
+var person = {
+    firstName : "Jennifer",
+    lastName : "Perkins",
+    age : 45, 
+    job: "coder"
+}
+
+console.log(person)
+
+console.log(person.firstName)
+
+person.favoritePet = "Lilly";
+person.favoritePlace = "Hawaii"
+console.log(person)
